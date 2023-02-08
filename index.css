@@ -1,0 +1,25 @@
+.between{
+    
+    text-align: center;
+    
+}
+.number{
+    text-align: center;
+}
+
+main{
+    width: 50%;
+}
+section{
+    width: 50%;
+    position: relative;
+    left: 80%;
+    bottom: 40px;
+}
+.prg{
+    text-align: center;
+}
+.again{
+    position: relative;
+    bottom: 60px;
+}
